@@ -9,3 +9,5 @@
 * drinking
 * smoking
 * gonzo
+
+> Da geht er hin, einer von Gottes eigenen Prototypen - ein aufgemotzter Mutant, der nie zur Massenproduktion in Betracht gezogen wurde: zu spleenig zum Leben und zu selten zum Sterben.
