@@ -12,4 +12,4 @@
 
 > Da geht er hin, einer von Gottes eigenen Prototypen - ein aufgemotzter Mutant, der nie zur Massenproduktion in Betracht gezogen wurde: zu spleenig zum Leben und zu selten zum Sterben.
 
-img src="https://i.pinimg.com/originals/80/35/82/803582be219bb1d655a1e0788cb2e5a9.jpg"/
+<img src="https://i.pinimg.com/originals/80/35/82/803582be219bb1d655a1e0788cb2e5a9.jpg"/>
